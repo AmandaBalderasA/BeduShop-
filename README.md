@@ -2,7 +2,7 @@
 ## Proyecto fase 2 equipo 21
 
 
-# Amanda Balderas Arce
+# Amanda Balderas Arias
 
 
 # Brenda Yareli Diaz Ruiz
