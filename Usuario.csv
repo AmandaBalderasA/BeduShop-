@@ -1,0 +1,101 @@
+id,nombre,apellido,username,email,direccion,tarjeta,tipo
+1,Silas,Elcomb,selcomb0,selcomb0@umn.edu,78 Mosinee Street,16,Comprador
+2,Sandie,Lidster,slidster1,slidster1@mlb.com,5609 Ramsey Court,16,Vendedor
+3,Gabbie,Erdes,gerdes2,gerdes2@blinklist.com,5922 Chive Lane,16,Vendedor
+4,Reinhold,Penwarden,rpenwarden3,rpenwarden3@csmonitor.com,14 Everett Avenue,16,Comprador
+5,Torrance,Burner,tburner4,tburner4@umn.edu,92195 Union Terrace,16,Comprador
+6,Licha,Joscelin,ljoscelin5,ljoscelin5@ocn.ne.jp,7 Crescent Oaks Street,16,Vendedor
+7,Freddi,Conyard,fconyard6,fconyard6@goodreads.com,62684 Clemons Drive,16,Vendedor
+8,Cordie,Fonzo,cfonzo7,cfonzo7@mac.com,97089 Dixon Trail,16,Vendedor
+9,Conney,Brandle,cbrandle8,cbrandle8@t-online.de,4 Merchant Plaza,16,Comprador
+10,Leonid,Yabsley,lyabsley9,lyabsley9@psu.edu,33 Corry Street,16,Vendedor
+11,Saunders,Payfoot,spayfoota,spayfoota@oakley.com,34256 Golden Leaf Drive,16,Comprador
+12,Maurine,Britto,mbrittob,mbrittob@csmonitor.com,72984 Arkansas Place,16,Comprador
+13,Gustave,Danilov,gdanilovc,gdanilovc@gmpg.org,170 Barnett Park,16,Vendedor
+14,Bamby,Rays,braysd,braysd@smh.com.au,30 Scott Point,16,Comprador
+15,Valerye,Durn,vdurne,vdurne@sakura.ne.jp,8221 Superior Parkway,16,Comprador
+16,Vaughn,Alexsandrev,valexsandrevf,valexsandrevf@delicious.com,18 Sunnyside Parkway,16,Vendedor
+17,Andi,Kopta,akoptag,akoptag@topsy.com,7 Elka Pass,16,Comprador
+18,Idelle,Cannell,icannellh,icannellh@hhs.gov,3527 Talmadge Crossing,16,Vendedor
+19,Kaylyn,Argent,kargenti,kargenti@sun.com,4546 Nova Point,16,Comprador
+20,Baxie,Willbourne,bwillbournej,bwillbournej@blogtalkradio.com,3466 Hoepker Park,16,Comprador
+21,Eward,Turn,eturnk,eturnk@google.es,77 Crowley Parkway,16,Comprador
+22,Paolo,Kennsley,pkennsleyl,pkennsleyl@xrea.com,9160 Melody Terrace,16,Vendedor
+23,Hetty,Sargant,hsargantm,hsargantm@craigslist.org,70041 Morning Lane,16,Comprador
+24,Fanchon,Tick,ftickn,ftickn@wiley.com,68 Kropf Junction,16,Comprador
+25,Shane,Aireton,sairetono,sairetono@buzzfeed.com,8 Rusk Crossing,16,Vendedor
+26,Lenore,Hastings,lhastingsp,lhastingsp@uiuc.edu,8977 Muir Court,16,Vendedor
+27,Page,Vandenhoff,pvandenhoffq,pvandenhoffq@chicagotribune.com,65 Namekagon Pass,16,Vendedor
+28,Riki,Dunkerton,rdunkertonr,rdunkertonr@disqus.com,470 Reindahl Junction,16,Vendedor
+29,Tye,Este,testes,testes@bloglines.com,8 Hovde Lane,16,Comprador
+30,Minne,Grabiec,mgrabiect,mgrabiect@eepurl.com,3 Rigney Way,16,Comprador
+31,Ashley,Toor,atooru,atooru@sciencedaily.com,327 Oxford Parkway,16,Comprador
+32,Kamillah,Guiducci,kguiducciv,kguiducciv@webmd.com,02 Sheridan Center,16,Vendedor
+33,Guillemette,Mouget,gmougetw,gmougetw@simplemachines.org,342 Brickson Park Road,16,Vendedor
+34,Catharine,Segebrecht,csegebrechtx,csegebrechtx@hhs.gov,96 Green Ridge Lane,16,Comprador
+35,Baird,Shippard,bshippardy,bshippardy@google.com.au,4 Miller Trail,16,Vendedor
+36,Melodee,Fresson,mfressonz,mfressonz@blogspot.com,8 Elmside Center,16,Comprador
+37,Vincenz,Bottrell,vbottrell10,vbottrell10@ucsd.edu,64019 Nova Point,16,Vendedor
+38,Pavia,Jennins,pjennins11,pjennins11@dropbox.com,5333 Kinsman Trail,16,Vendedor
+39,Vivyan,Chuney,vchuney12,vchuney12@geocities.jp,6 Pennsylvania Trail,16,Vendedor
+40,Eimile,Hamnett,ehamnett13,ehamnett13@nydailynews.com,4 Barby Trail,16,Comprador
+41,Reg,Simmans,rsimmans14,rsimmans14@webnode.com,5557 Kedzie Avenue,16,Comprador
+42,Modesty,Jurewicz,mjurewicz15,mjurewicz15@npr.org,46173 Mayer Park,16,Vendedor
+43,Errick,Jankowski,ejankowski16,ejankowski16@deliciousdays.com,1 Eastlawn Lane,16,Vendedor
+44,Jessika,Hazeldene,jhazeldene17,jhazeldene17@cargocollective.com,5 Meadow Valley Crossing,16,Comprador
+45,Alaric,Ackers,aackers18,aackers18@pcworld.com,25 Spaight Center,16,Comprador
+46,Pepe,Oakenford,poakenford19,poakenford19@eepurl.com,62897 Russell Trail,16,Vendedor
+47,Milt,Asplin,masplin1a,masplin1a@ed.gov,84 Maryland Road,16,Vendedor
+48,Francesco,Wanjek,fwanjek1b,fwanjek1b@msu.edu,56367 Spenser Trail,16,Comprador
+49,Ardelia,Densun,adensun1c,adensun1c@skyrock.com,8273 Forest Street,16,Comprador
+50,Cybill,Goldring,cgoldring1d,cgoldring1d@foxnews.com,4 Messerschmidt Drive,16,Comprador
+51,Spike,Pawden,spawden1e,spawden1e@4shared.com,281 Darwin Parkway,16,Comprador
+52,Simon,Plues,splues1f,splues1f@cam.ac.uk,8469 Dayton Alley,16,Comprador
+53,Tabitha,Jacqueme,tjacqueme1g,tjacqueme1g@ovh.net,6960 Dixon Park,16,Vendedor
+54,Jerrold,Rosenqvist,jrosenqvist1h,jrosenqvist1h@jimdo.com,22553 Park Meadow Center,16,Vendedor
+55,Cosimo,Amort,camort1i,camort1i@posterous.com,0146 Truax Court,16,Vendedor
+56,Bud,Terlinden,bterlinden1j,bterlinden1j@wunderground.com,4166 Lake View Parkway,16,Vendedor
+57,Bay,Mullane,bmullane1k,bmullane1k@123-reg.co.uk,2885 Browning Center,16,Comprador
+58,Kalil,Henze,khenze1l,khenze1l@cpanel.net,80 Cherokee Way,16,Comprador
+59,Iris,Petraitis,ipetraitis1m,ipetraitis1m@creativecommons.org,10533 Northridge Hill,16,Vendedor
+60,Fanni,Benedettini,fbenedettini1n,fbenedettini1n@bluehost.com,7 Hoepker Road,16,Comprador
+61,Nollie,Brinson,nbrinson1o,nbrinson1o@tiny.cc,1773 Center Hill,16,Comprador
+62,Parsifal,Motte,pmotte1p,pmotte1p@webs.com,8964 Russell Park,16,Vendedor
+63,Joli,Iddens,jiddens1q,jiddens1q@answers.com,991 Randy Trail,16,Vendedor
+64,Hilary,Cuddihy,hcuddihy1r,hcuddihy1r@home.pl,658 Melvin Court,16,Vendedor
+65,Randolph,Selland,rselland1s,rselland1s@scribd.com,9273 Homewood Drive,16,Comprador
+66,Rey,Clarkin,rclarkin1t,rclarkin1t@usda.gov,82880 Elka Drive,16,Comprador
+67,Carita,Guichard,cguichard1u,cguichard1u@cbslocal.com,15 Orin Avenue,16,Comprador
+68,Sandy,Colafate,scolafate1v,scolafate1v@foxnews.com,5 South Lane,16,Vendedor
+69,Georgina,Killoran,gkilloran1w,gkilloran1w@newyorker.com,70 Hanover Street,16,Comprador
+70,Merle,Semonin,msemonin1x,msemonin1x@scribd.com,272 Lakewood Place,16,Comprador
+71,Maryl,Swadling,mswadling1y,mswadling1y@google.com.hk,4 Ruskin Alley,16,Vendedor
+72,Guglielmo,Leates,gleates1z,gleates1z@bing.com,7069 Oneill Point,16,Vendedor
+73,Wylma,Raffels,wraffels20,wraffels20@privacy.gov.au,56127 Express Circle,16,Vendedor
+74,Gweneth,Cowlishaw,gcowlishaw21,gcowlishaw21@mysql.com,2 Huxley Circle,16,Vendedor
+75,Lucilia,Nuemann,lnuemann22,lnuemann22@de.vu,2 Tomscot Court,16,Vendedor
+76,Joli,Greenway,jgreenway23,jgreenway23@weebly.com,55 Fulton Road,16,Vendedor
+77,Karrah,Hethron,khethron24,khethron24@sitemeter.com,74 Menomonie Drive,16,Comprador
+78,Abbye,Attridge,aattridge25,aattridge25@studiopress.com,7502 Northport Avenue,16,Comprador
+79,Almira,Hoult,ahoult26,ahoult26@cyberchimps.com,6011 Johnson Crossing,16,Comprador
+80,Lynn,Dufer,ldufer27,ldufer27@admin.ch,15 Browning Way,16,Comprador
+81,Rosamund,Gentner,rgentner28,rgentner28@is.gd,20359 Eastwood Pass,16,Vendedor
+82,Emogene,Kimblin,ekimblin29,ekimblin29@google.de,76720 Northport Street,16,Vendedor
+83,Denice,Clues,dclues2a,dclues2a@t-online.de,3772 Elgar Court,16,Comprador
+84,Giselle,Bakhrushkin,gbakhrushkin2b,gbakhrushkin2b@arizona.edu,53529 Huxley Plaza,16,Comprador
+85,Ruthanne,Maciunas,rmaciunas2c,rmaciunas2c@yale.edu,2 Sommers Terrace,16,Vendedor
+86,Gunther,Piquard,gpiquard2d,gpiquard2d@ameblo.jp,6400 Stang Street,16,Vendedor
+87,Dion,Tejero,dtejero2e,dtejero2e@addtoany.com,01 Carberry Hill,16,Comprador
+88,Anitra,Ead,aead2f,aead2f@quantcast.com,22 Carey Point,16,Vendedor
+89,Izzy,Klimczak,iklimczak2g,iklimczak2g@sohu.com,5252 Aberg Parkway,16,Vendedor
+90,Hercule,Klainer,hklainer2h,hklainer2h@blogs.com,870 Ohio Alley,16,Comprador
+91,Lucho,Roubottom,lroubottom2i,lroubottom2i@noaa.gov,2181 Park Meadow Avenue,16,Vendedor
+92,Jorie,Chrichton,jchrichton2j,jchrichton2j@privacy.gov.au,68565 Prairie Rose Center,16,Comprador
+93,Camila,Skirlin,cskirlin2k,cskirlin2k@utexas.edu,9 Ludington Circle,16,Comprador
+94,Lyndy,Spruce,lspruce2l,lspruce2l@newyorker.com,39323 Oriole Drive,16,Comprador
+95,Olga,Tumelty,otumelty2m,otumelty2m@ustream.tv,2 Del Mar Plaza,16,Comprador
+96,Ron,Winchester,rwinchester2n,rwinchester2n@fema.gov,69 Ruskin Avenue,16,Comprador
+97,Raquel,Esmead,resmead2o,resmead2o@phoca.cz,2 Farmco Road,16,Comprador
+98,Kania,Whewell,kwhewell2p,kwhewell2p@domainmarket.com,73252 Independence Road,16,Comprador
+99,Annabelle,Powton,apowton2q,apowton2q@furl.net,312 Hoard Crossing,16,Vendedor
+100,Kira,Hlavecek,khlavecek2r,khlavecek2r@psu.edu,826 Duke Center,16,Comprador
